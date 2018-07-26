@@ -1,0 +1,19 @@
+{
+"id": "1001406991",
+"object": "customer",
+"type": "Person",
+"firstName": "Jane",
+"lastName": "Doe",
+"displayName": "Jane Doe",
+"organisationName": "string",
+"address": {
+"standard": {}
+},
+"referralCode": "vxyst",
+"airpoints": {
+"registered": true,
+"firstName": "Jane",
+"lastName": "Doe",
+"cardNumber": "12345678"
+}
+}
